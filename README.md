@@ -17,6 +17,9 @@
 - 💻 Computer Architecture
 - 📊 Microsoft Excel & Microsoft Office Suite
 - 🧠 Problem Solving and Analytical Thinking
+- 🌱 Beginner proficiency in:
+  - ⚙️ C#
+  - 🌐 HTML & CSS
 
 ---
 
@@ -34,4 +37,5 @@
 - 💼 **LinkedIn:** [kea-mpye-364bb1279](https://www.linkedin.com/in/kea-mpye-364bb1279)
 
 ---
-Appreciate you viewing my profile:;)
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
